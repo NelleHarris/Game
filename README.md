@@ -1,14 +1,5 @@
-# 2D Java Game Framework
-
-A collection of classes used for 2d game programming in Java. Much of the dirty work is taken care which makes this useful for beginner game programmers. 
-
-## Installation
-
-1. install the java JDK7.
-2. clone this repo.
-3. run make.bat if on windows, make.sh if on linux, or compile it with netbeans.
-4. add the .jar file created to your project.
-
-## Usage
-
-After building the framework, add the .jar file to your project. Once added to your project have your class extend "game.framework.Game" and implement all the methods from the abstract class. Once everything is set up correctly just run the project and you should see a blank window with a blue background. (Better instructions to come later! :p)
+# cn-python-foundation
+ # Archival Note 
+ This repository is deprecated; therefore, we are going to archive it. However, learners will be able to fork it to their personal Github account but cannot submit PRs to this repository. If you have any issues or suggestions to make, feel free to: 
+- Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues. 
+- Submit a support ticket along with the link to your forked repository if (learners are) blocked for other reasons. Here are the links for the [retail consumers](https://udacity.zendesk.com/hc/en-us/requests/new) and [enterprise learners](https://udacityenterprise.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000279131).
